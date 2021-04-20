@@ -1,0 +1,16 @@
+Package: NumericalAnalysis
+Title: Exploring Numerical Analysis in R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "srjefferys@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0001-6259-085X"))
+Description: My notes on numerical analysis in R, along with any supporting
+ code.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
